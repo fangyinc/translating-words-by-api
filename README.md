@@ -1,0 +1,1 @@
+# Translating words by api
